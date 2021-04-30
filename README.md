@@ -1,2 +1,2 @@
 # Algorithms-from-scratch-
-Practising the implementation of algorithms 
+Practicing the implementation of algorithms 
