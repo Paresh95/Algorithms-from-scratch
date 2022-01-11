@@ -51,7 +51,7 @@ class LinearRegression:
         '''
         
         for i in range(self.n_steps):
-            self.W = self.W - self.learning_rate * self.calculate_gradient(X, y)
+            self.W -= self.learning_rate * self.calculate_gradient(X, y)
        
         return self.W
         
